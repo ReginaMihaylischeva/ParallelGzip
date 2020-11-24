@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Gzip\Gzip\bin\Debug\Gzip.exe.config
+C:\Users\User\Desktop\Gzip\Gzip\bin\Debug\Gzip.exe
+C:\Users\User\Desktop\Gzip\Gzip\bin\Debug\Gzip.pdb
+C:\Users\User\Desktop\Gzip\Gzip\obj\Debug\Gzip.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Gzip\Gzip\obj\Debug\Gzip.exe
+C:\Users\User\Desktop\Gzip\Gzip\obj\Debug\Gzip.pdb
